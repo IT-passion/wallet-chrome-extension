@@ -1,0 +1,237 @@
+/* default css start */
+
+body {
+    width: 400px;
+    height: 580px;
+    /* box-sizing: border-box; */
+}
+
+.d-flex {
+    display: flex;
+}
+
+.fw-700 {
+    font-weight: 700px !important;
+}
+
+#logo_img {
+    width: 100%;
+    height: 100px;
+}
+
+.content {
+    margin: 15px;
+}
+
+.content_2 {
+    margin: 15px;
+}
+
+.btn {
+    background-color: blue;
+    color: white;
+    width: 100%;
+    font-size: 15px !important;
+    padding: 12px;
+    margin-top: 10px;
+}
+
+.back-page {
+    font-size: 20px;
+}
+
+.back-page-icon {
+    color: black;
+    cursor: pointer;
+}
+
+.mb-20 {
+    margin-bottom: 20px;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+/* .label {
+    font-size: 15px;
+} */
+
+/* .input {
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1px solid;
+} */
+
+.input-wrapper {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.back-page {
+    margin-bottom: 20px;
+}
+
+.input-block {
+    margin-top: 10px;
+}
+
+.message {
+    font-size: 15px;
+    padding: 15px;
+    text-align: center;
+    margin-top: 15px;
+}
+/* default css end */
+
+/* login page css start */
+
+
+/* login page css end */
+
+/* home page css start */
+
+
+.home-page #search_input {
+    width: 75%;    
+    margin-right: 20px;
+}
+
+.home-page .search-input-wrapper {
+    margin-top: 10px;
+}
+
+.home-page .search-enter {
+    padding: 11px 10px;
+    width: 47px;
+    border-radius: 30px;
+    float: right;
+    margin: 2px;
+}
+
+/* home page css end */
+
+/* logs page css start */
+
+
+
+.logs-page .logs-wrapper {
+    margin-top: 20px;
+}
+
+.logs-page .logs-heading {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 10px 0px;
+}
+
+.logs-page .logs {
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
+/* logs page css end */
+
+/* Bulk offer page css start */
+.bulk-offers-page .error-message {
+    background-color: #f0cef1;
+    display: none;
+}
+
+.bulk-offers-page .success-message {
+    background-color: #91a5b1;
+    /* display: flex; */
+    display: none;
+}
+
+.bulk-offers-page .warning-icon {
+    color: yellow;
+}
+/* Bulk offer page css end */
+
+#seedPhrase_input {
+    height: 250px;
+    margin-bottom: 15px;
+}
+
+
+.remove-wallet-page .remove-icons {
+    padding: 11px 0px;
+    margin-left: 10px;
+}
+
+.search-result-page #search_result_input {
+    width: 75%;    
+}
+
+.search-result-page .search-input-wrapper {
+    margin-top: 10px;
+}
+
+.search-result-page .search-enter {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    width: 47px;
+    border-radius: 30px;
+    float: right;
+}
+
+.search-result-page .collection-banner {
+    width: 100%;
+    height: 100px;
+    margin: 10px -15px;
+}
+
+.search-result-page #collection-banner-image {
+    width: 400px;
+    height: 100px;
+}
+
+.search-result-page .collection-name {
+    font-size: 30px;
+}
+
+.search-result-page .collection-info {
+    font-size: 23px;
+}
+
+.search-result-page .collection-info .title{
+    font-weight: 700;
+}
+
+.search-result-page .collection-info .info-number{
+    font-weight: 400px;
+}
+
+.search-result-page .collection-chart{
+    width: 100%;
+    height: 100px;
+    background-color: wheat;
+}
+
+.search-result-page .search-enter {
+    padding: 11px 10px;
+    width: 47px;
+    border-radius: 30px;
+    float: right;
+    margin: 2px;
+}
+
+.search-result-page #search_result_input {
+    width: 75%;    
+    margin-right: 20px;
+}
+
+.address {
+    font-size: 12px !important;
+}
+
+.remove-icons {
+    cursor: pointer;
+}
